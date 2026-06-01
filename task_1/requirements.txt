@@ -1,0 +1,8 @@
+ipykernel
+kagglehub
+matplotlib
+nbconvert
+numpy
+pandas
+scikit-learn
+seaborn
