@@ -3,3 +3,12 @@ __pycache__/
 *.pyc
 /dataset
 .ruff_cache/
+
+# datasets (downloaded via gdown, too large for git)
+dataset/
+dataset.zip
+*.zip
+
+# notebook execution logs
+nbconvert.log
+.ipynb_checkpoints/
