@@ -1,0 +1,7 @@
+ipykernel
+matplotlib
+nbconvert
+networkx
+numpy
+scikit-learn
+seaborn
